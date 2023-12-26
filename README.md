@@ -1,6 +1,5 @@
 # examBackend
 
-springboot-sample-app
 Build Status Coverage Status License
 
 Minimal Spring Boot sample app.
